@@ -58,6 +58,11 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 ![Market](./images/sensors-18-02414-g008.jpg)
 
 
+## Technical Stack
+* Streaming Engine: [Esper](http://www.espertech.com/esper/), [Apache Flink](https://flink.apache.org/), [Apache Spark](https://spark.apache.org/)
+
+
 ## Reference
 * [Wearable Health Devices—Vital Sign Monitoring, Systems and Technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111409/)
 * [Chicago Police produce video to encourage officer to seek help](https://www.chicagotribune.com/news/breaking/116237042-132.html)
+* [Mitchell Jeffrey - Critical Incident Stress Debriefing](http://www.info-trauma.org/flash/media-f/mitchellCriticalIncidentStressDebriefing.pdf)
