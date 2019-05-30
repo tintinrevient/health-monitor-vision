@@ -60,6 +60,10 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 
 ## Technical Stack
 * Streaming Engine: [Esper](http://www.espertech.com/esper/), [Apache Flink](https://flink.apache.org/), [Apache Spark](https://spark.apache.org/)
+* Deep Learning: [TensorFlow](https://www.tensorflow.org/), [TFLearn](http://tflearn.org/), [Keras](https://keras.io/)
+* Computer Vision: [OpenCV](https://opencv.org/)
+
+
 
 
 ## Reference
