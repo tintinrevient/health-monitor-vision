@@ -62,6 +62,19 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 * Streaming Engine: [Esper](http://www.espertech.com/esper/), [Apache Flink](https://flink.apache.org/), [Apache Spark](https://spark.apache.org/)
 * Deep Learning: [TensorFlow](https://www.tensorflow.org/), [TFLearn](http://tflearn.org/), [Keras](https://keras.io/)
 * Computer Vision: [OpenCV](https://opencv.org/)
+* Text-based Sentiment Analysis: [AYLIEN](https://aylien.com/), [KNIME Analytics Platform](https://www.knime.com/), [RapidMiner](https://rapidminer.com/)
+* Gaming
+* Chatbot
+* Real-Time Survey Systems
+* Automatic Personality Selection
+
+
+## Product
+* [Therapractic Management Systems Software](https://www.softwareadvice.com/medical/therapractic-management-system-profile/)
+* [The Valant Behavioral Health EHR](https://www.softwareadvice.com/mental-health/valant-profile/)
+* [Sevocity](https://www.softwareadvice.com/mental-health/sevocity-profile/)
+* [CarePaths EHR Software](https://www.softwareadvice.com/mental-health/carepaths-profile/)
+* [EHR YOUR WAY Software](https://www.softwareadvice.com/mental-health/ehryourway-profile/)
 
 
 ## Reference
