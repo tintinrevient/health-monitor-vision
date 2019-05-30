@@ -30,5 +30,17 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 ![Architecture](./images/sensors-18-02414-g003.jpg)
 
 
+## One Example
+1. SensoTRACK ear sensor
+2. Google Contact Lens
+3. BioPatch
+4. Smartwatch Basis PEAK
+5. QardioCore
+6. Vital Jacket T-shirt
+7. Moov (Activity Tracker)
+
+![Architecture](./images/sensors-18-02414-g004.jpg)
+
+
 ## Reference
 * [Wearable Health Devices—Vital Sign Monitoring, Systems and Technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111409/)
