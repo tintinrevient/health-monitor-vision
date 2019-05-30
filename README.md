@@ -42,5 +42,21 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 ![Architecture](./images/sensors-18-02414-g004.jpg)
 
 
+## Trend of Wearable Health Devices
+
+![Trend](./images/sensors-18-02414-g007.jpg)
+
+
+## Telehealth World Market
+* CHF (Congestive Heart Failures): 心肌梗塞 - 49%
+* Diabetes: 糖尿病 - 19%
+* Hypertension: 高压力 - 13%
+* COPD (Chronic Obstructive Pulmonary Disease): 慢性阻塞性肺疾病 - 12%
+* Mental Health: 心理疾病 - 3%
+* Others: 其他 - 4%
+
+![Market](./images/sensors-18-02414-g008.jpg)
+
+
 ## Reference
 * [Wearable Health Devices—Vital Sign Monitoring, Systems and Technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111409/)
