@@ -60,3 +60,4 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 
 ## Reference
 * [Wearable Health Devices—Vital Sign Monitoring, Systems and Technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111409/)
+* [Chicago Police produce video to encourage officer to seek help](https://www.chicagotribune.com/news/breaking/116237042-132.html)
