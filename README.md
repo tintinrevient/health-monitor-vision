@@ -82,8 +82,7 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 加入Online实时身心健康监控功能，可以运用的技术和场景如下：
 * BAM (Business Activity Monitoring) + CEP (Complex Event Processing)
 * [Real-Time Facial Expression](https://sefiks.com/2018/01/10/real-time-facial-expression-recognition-on-streaming-data/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y7DfLvLKScs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Emotion](./images/emotion-ai.png)
 
 * [Eulerian Video Magnification](https://people.csail.mit.edu/mrub/vidmag/)
 ![Magnification](./images/vidmagteaser.jpg)
