@@ -60,9 +60,11 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 
 ## Technical Stack
 * Streaming Engine: [Esper](http://www.espertech.com/esper/), [Apache Flink](https://flink.apache.org/), [Apache Spark](https://spark.apache.org/)
+* Complex Event Processing: [Esper](http://www.espertech.com/esper/), [Apache Kafka](https://kafka.apache.org/)
 * Deep Learning: [TensorFlow](https://www.tensorflow.org/), [TFLearn](http://tflearn.org/), [Keras](https://keras.io/)
 * Computer Vision: [OpenCV](https://opencv.org/)
 * Text-based Sentiment Analysis: [AYLIEN](https://aylien.com/), [KNIME Analytics Platform](https://www.knime.com/), [RapidMiner](https://rapidminer.com/)
+* Dashboard: [Grafana](https://grafana.com/), [Kibana](https://www.elastic.co/products/kibana)
 * Gaming
 * Chatbot
 * Real-Time Survey Systems
@@ -70,11 +72,21 @@ Wearable Health Devices (WHDs)的应用可以归为以下三类：
 
 
 ## Product
+在如下市场上的产品里，身心健康的基本功能包括: 建立用户病历档案，预约医生，基本上是Offline的功能。
 * [Therapractic Management Systems Software](https://www.softwareadvice.com/medical/therapractic-management-system-profile/)
 * [The Valant Behavioral Health EHR](https://www.softwareadvice.com/mental-health/valant-profile/)
 * [Sevocity](https://www.softwareadvice.com/mental-health/sevocity-profile/)
 * [CarePaths EHR Software](https://www.softwareadvice.com/mental-health/carepaths-profile/)
 * [EHR YOUR WAY Software](https://www.softwareadvice.com/mental-health/ehryourway-profile/)
+
+加入Online实时身心健康监控功能，可以运用的技术和场景如下：
+* BAM (Business Activity Monitoring) + CEP (Complex Event Processing)
+* [Real-Time Facial Expression](https://sefiks.com/2018/01/10/real-time-facial-expression-recognition-on-streaming-data/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y7DfLvLKScs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [Eulerian Video Magnification](https://people.csail.mit.edu/mrub/vidmag/)
+![Magnification](./images/vidmagteaser.jpg)
 
 
 ## Reference
